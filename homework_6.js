@@ -38,7 +38,7 @@ if (age_1 < age_2){
 console.log("You don't have access cause your age is " + age_2 + " It's less then")   
 } // 29,30
 
-else if (age_1 >= age_2, age_1 < age_3){
+else if (age_1 >= age_2 && age_1 < age_3){
 console.log("Welcome !")
 } // 31
 
